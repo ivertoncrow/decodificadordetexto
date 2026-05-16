@@ -40,7 +40,7 @@ O Desafio se baseou no Challenge Based Learning, ou seja, a aprendizagem baseada
 - AGIR (CODIFICAR GITHUB E PUBLICAR LINKEDIN)
 
 
-- [Acesse o projeto finalizado, AQUI]
+- [Acesse o projeto finalizado, AQUI](https://ivertoncrow.github.io/decodificadordetexto/)
 
 ## :memo: Licença
 
